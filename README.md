@@ -1,4 +1,4 @@
-# PyramidNet_Shake-Drop
+# PyramidNet_Shake Drop_CIFAR10
 [ShakeDrop Regularization for Deep Residual Learning][1]<br>
 PyramidNet + Shake Drop + Cosine Annealing Learning Rate in Chainer with Colaboratory (without Random Erasing)
 
