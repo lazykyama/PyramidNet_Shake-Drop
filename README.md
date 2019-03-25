@@ -5,7 +5,7 @@ PyramidNet + Shake Drop + Cosine Annealing Learning Rate in Chainer with Colabor
 Although I made PyramidNet + Shake Drop implimentation code, in Colaboratory it takes 15 days in training (LoL).
 Therefore, I can't train this network.<br>
 If you want to train this network, please change format (i.e. ipynb -> py) after downloading this code.<br>
-But, so I didn't finish to train this network, I can't ensure whether or not this code is collect.
+But, since I didn't finish to train this network, I can't ensure whether or not this code is collect.
 
 Great thanks to [@shunk031][2]! (PyramidNet in Chainer)
 
