@@ -1,5 +1,5 @@
 # PyramidNet_Shake-Drop
-[ShakeDrop Regularization for Deep Residual Learning][1]
+[ShakeDrop Regularization for Deep Residual Learning][1]<br>
 PyramidNet + Shake Drop + Cosine Annealing Learning Rate in Chainer with Colaboratory (without Random Erasing)
 
 Although I made PyramidNet + Shake Drop implimentation code, in Colaboratory it takes 15 days in training (LoL).
